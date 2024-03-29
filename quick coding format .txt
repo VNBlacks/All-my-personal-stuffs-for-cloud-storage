@@ -1,0 +1,166 @@
+<body style="background-color: #d9d9d9;">
+    
+    
+    
+    
+    
+    
+    
+    <style>
+    
+    .MOTHER {
+        background: white;
+        border: 2px solid green;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        color: white;
+        justify-content: center;
+        align-content: center;
+        align-items: center;    }
+    .c1 {
+        background: blue;
+        margin: 20px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;  
+        margin-top: 50px;
+    }
+    .c2 {
+        background: darkred;
+        margin: 20px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;
+        margin-top: 10px;
+    }
+    .c3 {
+        background: blue;
+        margin: 20px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;
+        margin-top: 50px;
+    }
+        .FATHER {
+        background: darkgoldenrod;
+        border: 2px solid green;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        text-align: center;
+        color: white;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+    }
+    .ch1 {
+        background: blue;
+        margin: 20px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;
+        margin-bottom: 50px;
+    }
+    .ch2 {
+        background: blue;
+        margin: 20px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;
+        margin-top: 50px;
+    }
+    .ch3 {
+        background: blue;
+        margin: 20px;
+        width: 30px;
+        height: 30px;
+        padding: 30px;
+        margin-bottom: 50px;
+        overflow: none;        
+    }
+</style>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <h4>WEB COVER FOR NAVAL UNDERCOVER SECTION B (BRAVO) </h4>
+<p>ALPHA! ALPHA!, This is Bravo on air, check the intruder at north-west side of the sea, command require you block any intruder with immediate effect</p>
+
+<ul>
+<ol>
+<li>
+<hr>
+
+<div>
+
+
+
+THANK YOU FOR TOUCHING MY BRAIN TODAY BEING 30/12/2021
+
+WEB COVER FOR NAVAL UNDERCOVER SECTION B (BRAVO)
+ALPHA! ALPHA!, This is Bravo on air, check the intruder at north-west side of the sea, command require you block any intruder with immediate effect.
+
+ALPHA! block all intruder with immediately.
+
+ALPHA! Command require you open fire if necessary, Pirate are part of the civilians.
+
+There is a drone on you, destroy or loss every company.
+
+Bravo out
+Copied
+Over
+...Come Again Sir?
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe id="backgroundImage" src="destop/play.jpg"></iframe>
+
+
+
+
+</div></li></ol></ul>
+
+<div class="show1> Thank you  </div>
+<div class=" show2=""> WELCOME BUDDY <p>:)</p>  </div>
+
+
+
+<div class="MOTHER">
+    <div class="c1">OBI</div>
+    <div class="c2">JOHN</div>
+    <div class="c3">ADA</div></div>
+<div class="FATHER">
+    <div class="ch1">UCHE</div>
+    <div class="ch2">GEORGE</div>
+    <div class="ch3">MONSURAT</div></div>
+
+
+
+
+
+
+    
+</body>

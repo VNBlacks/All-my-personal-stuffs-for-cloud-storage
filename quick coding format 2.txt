@@ -1,0 +1,52 @@
+<body>
+<h1 id="h1"> HELLO WORLD!!</h1>
+    <div class="Red"> Red color </div>
+    <div class="Purple"> Purple color </div>
+    
+<style>
+    h1
+    {
+        text-align: center;
+    }
+div
+    {
+    display: inline;
+    margin-left: 10px;
+    justify-items: center;
+    flex-direction: center;
+    }
+    .Red
+    {
+        
+        text-align: center;
+        border: 2px solid red;
+        padding: 15px 15px;
+        color: red;
+        margin-left: 210px;
+    }
+        .Purple
+    {
+        
+        text-align: center;
+        border: 2px solid purple;
+        padding: 15px 15px;
+        color: purple;
+    }
+.Red:hover
+    {
+    background-color: lightgray;
+    }
+.Purple:hover
+    {
+    background-color: lightgray;
+    }
+    
+</style>
+
+<script>
+document.getElementById(h1) 
+
+    
+</script>
+    
+</body>
